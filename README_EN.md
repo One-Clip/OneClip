@@ -466,7 +466,7 @@ If it still fails:
   <h3>Wcowin</h3>
   <p>
     <a href="https://wcowin.work/blog/Mac/sunhuai/"> Blog</a> |
-    <a href="https://github.com/Wcowin"> GitHub</a> |
+    <a href="https://github.com/Wkwcowin"> GitHub</a> |
     <a href="mailto:vip@oneclip.cloud"> Email</a>
   </p>
 </div>
@@ -516,6 +516,6 @@ Thanks to all users for support and feedback! 🎉
 <div align="center">
   <p><strong>OneClip — A simple, professional clipboard manager for macOS</strong></p>
   <p>Make the complex simple, and the simple elegant</p>
-  <p>Made with ❤️ by <a href="https://github.com/Wcowin">Wcowin</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/Wkwcowin">Wcowin</a></p>
   <p>© 2026 Wcowin. All rights reserved.</p>
 </div>

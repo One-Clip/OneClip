@@ -486,7 +486,7 @@ open dist/OneClip.app
   <h3>Wcowin</h3>
   <p>
     <a href="https://wcowin.work/blog/Mac/sunhuai/"> 博客</a> |
-    <a href="https://github.com/Wcowin"> GitHub</a> |
+    <a href="https://github.com/Wkwcowin"> GitHub</a> |
     <a href="mailto:vip@oneclip.cloud"> 邮箱</a>
   </p>
 </div>
@@ -552,6 +552,6 @@ open dist/OneClip.app
 <div align="center">
   <p><strong>OneClip —— 简单专业的 macOS 剪贴板管理工具</strong></p>
   <p>让复杂的事情变简单，让简单的事情变优雅</p>
-  <p>Made with ❤️ by <a href="https://github.com/Wcowin">Wcowin</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/Wkwcowin">Wcowin</a></p>
   <p>© 2026 Wcowin. All rights reserved.</p>
 </div>
