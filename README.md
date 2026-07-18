@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/One-Clip/OneClip/releases"><img src="https://img.shields.io/github/v/release/Wkwcowin/OneClip?style=for-the-badge&color=3b82f6" alt="Release" style="border-radius: 8px;" /></a>
-  <a href="https://github.com/One-Clip/OneClip/releases"><img src="https://img.shields.io/github/downloads/Wkwcowin/OneClip/total?style=for-the-badge&color=22c55e" alt="Downloads" style="border-radius: 8px;" /></a>
+  <a href="https://github.com/One-Clip/OneClip/releases"><img src="https://img.shields.io/github/downloads/Wcowin/OneClip/total?style=for-the-badge&color=22c55e" alt="Downloads" style="border-radius: 8px;" /></a>
   <img src="https://img.shields.io/badge/Homebrew-Available-orange?style=for-the-badge&logo=homebrew&logoColor=white" alt="Homebrew" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/macOS-12%2B-0f172a?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 12+" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/Swift-5.9%2B-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift 5.9+" style="border-radius: 8px;" />
