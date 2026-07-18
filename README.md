@@ -540,9 +540,9 @@ open dist/OneClip.app
 
 <a href="https://www.star-history.com/?repos=One-Clip%2FOneClip&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=One-Clip/OneClip&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=One-Clip/OneClip&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=One-Clip/OneClip&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=One-Clip/OneClip&type=date&theme=dark&legend=top-left&sealed_token=4wp0XeLOWoqNcLNAuBqyKoVfKrkHqOYnF7_yHXyc8WSmIKFYAhDBQycjcXzROOh6jQHN4c3vBA0aafnjI9HWoSEmQTSwV6EKtIpNqRVd2rnDJBhpcQUfGA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=One-Clip/OneClip&type=date&legend=top-left&sealed_token=4wp0XeLOWoqNcLNAuBqyKoVfKrkHqOYnF7_yHXyc8WSmIKFYAhDBQycjcXzROOh6jQHN4c3vBA0aafnjI9HWoSEmQTSwV6EKtIpNqRVd2rnDJBhpcQUfGA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=One-Clip/OneClip&type=date&legend=top-left&sealed_token=4wp0XeLOWoqNcLNAuBqyKoVfKrkHqOYnF7_yHXyc8WSmIKFYAhDBQycjcXzROOh6jQHN4c3vBA0aafnjI9HWoSEmQTSwV6EKtIpNqRVd2rnDJBhpcQUfGA" />
  </picture>
 </a>
 
