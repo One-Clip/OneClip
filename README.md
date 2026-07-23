@@ -11,8 +11,6 @@
 > [!TIP]
 > 🌟 OneClip早期源码已开源在 [src/](https://github.com/One-Clip/OneClip/tree/main/src) 目录，可自行下载构建。我**完整开源**了剪切板核心机制，希望同行仅使用核心机制作为参考，UI 自行打磨。希望各位同行：开发同类产品之前先调研再 vibe coding，三思而后行。         
 > 
-> Windows版本正在开发中，敬请期待！仓库地址：https://github.com/One-Clip/OneClip-Windows
->win 和 iOS 鸽一下吧 
 
 
 <div align="center">

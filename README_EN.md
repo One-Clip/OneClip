@@ -11,8 +11,6 @@
 > [!TIP]
 > 🌟 Early first-edition source code is open at [src/](https://github.com/One-Clip/OneClip/tree/main/src). You can build it yourself.  
 > The early version used the file system; OneClip now uses SQLite (WAL mode) for storage. You can build from source if you prefer.  
->   
-> Windows version is in development. Repo: https://github.com/One-Clip/OneClip-Windows
 
 
 <div align="center">
