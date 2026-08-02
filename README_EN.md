@@ -9,8 +9,7 @@
 > [OneClip QQ Group](https://qm.qq.com/q/xiImGHVMcM) | [Telegram Group](https://t.me/+I7S6R0pw5180YzRl)
 
 > [!TIP]
-> 🌟 Early first-edition source code is open at [src/](https://github.com/One-Clip/OneClip/tree/main/src). You can build it yourself.  
-> The early version used the file system; OneClip now uses SQLite (WAL mode) for storage. You can build from source if you prefer.  
+> 🌟 Early first-edition source code is open at [src/](https://github.com/One-Clip/OneClip/tree/main/src). You can download and build it yourself. I have **fully open-sourced** the core clipboard mechanism, and I hope fellow developers use the core mechanism only as a reference and polish their own UI. Before building similar products, please do your research first and then vibe coding — think twice before you act.  
 
 
 <div align="center">
@@ -55,10 +54,10 @@ OneClip is a **professional clipboard manager** built for macOS. It uses **100% 
 - **Full format support**: Images, video, audio, documents with metadata preserved
 - **Edit text/images**: Edit and delete with undo; pin, favorite, delete
 - **Stack clipboard**: `⌘+⇧+C` to open stack; `⌘+V` to paste in order; `⌘+⇧+S` to split by line
-- **Quick paste panel**: `⌘+;` to open quick paste panel
+- **Quick paste panel**: `⌘+;` to open quick paste panel for fast pasting of recent content
 - **Drag container**: `⌘+⇧+D` to open drag container for temporary files/images
 - **Fast search**: `⌘+F` to search as you type, filters and highlight
-- **Menu bar**: Quick access, category search, hover preview, one-click copy/paste
+- **Menu bar**: Quick access, category search, hover preview, one-click copy/paste (left-click to copy, right-click to paste)
 - **Global hotkeys**: `⌘+⇧+V` for main window (customizable)
 - **Quick reply**: `⌘+⇧+R` for text/image/file templates, import/export
 - **OCR**: Screen or image text recognition, OCR translation
@@ -66,10 +65,15 @@ OneClip is a **professional clipboard manager** built for macOS. It uses **100% 
 - **AI**: Local (Ollama/LMStudio) and cloud AI for summarization and translation
 - **Sync**: iCloud/Dropbox and custom sync, backup/import/export
 - **Custom storage**: Choose where to store data
-- **Flexible options**: Dock icon, background mode, theme; list/card view
+- **Privacy**: All data stored locally, no uploads; biometric protection (Touch ID/Face ID)
+- **Multi-language**: UI in Chinese and English
+- **LAN sync**: Sync text/images across devices on the same network; share clipboard via web in real time
+- **API support**: URL Scheme API for integration with other apps
+- **Flexible options**: Dock icon, light/dark theme; list/card view with three card orientations and edge-dock mouse trigger
 - **Modern UI**: macOS design, vibrancy and dark mode
 - **Easy install**: Homebrew one-line install (Sparkle auto-update)
-- **Finder enhancement**: Finder ⌘+X cut, ⌘+V paste to move files (free in OneClip)
+- **Finder enhancement**: Finder ⌘+X cut, ⌘+V paste to move files elsewhere (a paid feature elsewhere, **free in OneClip**)
+- **PopClip**: PopClip-style selection menu — show a quick-action menu at the cursor after selecting text
 - **More features**: Waiting for you to discover
 
 ![img1.png](https://cdn.nodeimage.com/i/eYSz3X0E6J8JZl3wGXF3KecrbHCFhz2O.webp)  
@@ -447,12 +451,9 @@ If it still fails:
 ### 🚧 In progress
 
 - [ ] Ongoing performance and feature polish
-- [ ] Better multi-language support
 
 ### 📋 Planned
 
-- [ ] Plugin system
-- [ ] Team/collaboration
 - [ ] iOS / iPadOS / Windows clients
 
 💡 Suggestions? [GitHub Discussions](https://github.com/One-Clip/OneClip/discussions)
@@ -464,7 +465,7 @@ If it still fails:
   <h3>Wcowin</h3>
   <p>
     <a href="https://wcowin.work/blog/Mac/sunhuai/"> Blog</a> |
-    <a href="https://github.com/Wkwcowin"> GitHub</a> |
+    <a href="https://github.com/Wcowin"> GitHub</a> |
     <a href="mailto:vip@oneclip.cloud"> Email</a>
   </p>
 </div>
@@ -514,6 +515,6 @@ Thanks to all users for support and feedback! 🎉
 <div align="center">
   <p><strong>OneClip — A simple, professional clipboard manager for macOS</strong></p>
   <p>Make the complex simple, and the simple elegant</p>
-  <p>Made with ❤️ by <a href="https://github.com/Wkwcowin">Wcowin</a></p>
-  <p>© 2026 Wcowin. All rights reserved.</p>
+  <p>Made with ❤️ by <a href="https://github.com/Wcowin">Wcowin</a></p>
+  <p>© 2025-2026 Wcowin. All rights reserved.</p>
 </div>
