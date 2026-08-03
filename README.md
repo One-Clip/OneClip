@@ -9,7 +9,7 @@
 > [OneClip QQ交流群](https://qm.qq.com/q/xiImGHVMcM) | [TG 群组](https://t.me/+I7S6R0pw5180YzRl)  
 
 > [!TIP]
-> 🌟 OneClip早期源码已开源在 [src/](https://github.com/One-Clip/OneClip/tree/main/src) 目录，可自行下载构建。我**完整开源**了剪切板核心机制，希望同行仅使用核心机制作为参考，UI 自行打磨。希望各位同行：开发同类产品之前先调研再 vibe coding，三思而后行。         
+> 🌟 OneClip早期源码已开源在 [src/](https://github.com/One-Clip/OneClip/tree/main/src) 目录，可自行下载构建。我**完整开源**了剪贴板核心机制，希望同行仅使用核心机制作为参考，UI 自行打磨。希望各位同行：开发同类产品之前先调研再 vibe coding，三思而后行。         
 > 
 
 
