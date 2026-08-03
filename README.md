@@ -17,7 +17,12 @@
   <img src="https://picx.zhimg.com/80/v2-34b000e56d1af7ef61092dcd031dfd9a_1440w.webp?source=2c26e567" alt="OneClip Logo" width="120" height="120">
   <h1>OneClip</h1>
   <p><strong>一个简单专业的 macOS 剪贴板管理工具</strong></p>
-  <p>🥇 高效 · 🎨 现代 · ⚡️ 流畅 · 🔒 安全</p>
+  <p>
+    <span style="display:inline-block;margin:0 4px;padding:4px 12px;border-radius:999px;font-size:13px;font-weight:500;color:#fff;background:#3b82f6;">高效</span>
+    <span style="display:inline-block;margin:0 4px;padding:4px 12px;border-radius:999px;font-size:13px;font-weight:500;color:#fff;background:#8b5cf6;">现代</span>
+    <span style="display:inline-block;margin:0 4px;padding:4px 12px;border-radius:999px;font-size:13px;font-weight:500;color:#fff;background:#06b6d4;">流畅</span>
+    <span style="display:inline-block;margin:0 4px;padding:4px 12px;border-radius:999px;font-size:13px;font-weight:500;color:#fff;background:#22c55e;">安全</span>
+  </p>
 </div>
 
 <p align="center">
@@ -29,6 +34,7 @@
   <img src="https://img.shields.io/badge/Privacy-Local%20Storage-green?style=for-the-badge" alt="Privacy Local Storage" style="border-radius: 8px;" />
   <a href="https://github.com/One-Clip/OneClip/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License" style="border-radius: 8px;" /></a>
   <a href="https://qm.qq.com/q/xiImGHVMcM"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-1060157293-0084ff?style=for-the-badge&logo=qq&logoColor=white" alt="QQ 群" style="border-radius: 8px;" /></a>
+  <a href="https://t.me/+I7S6R0pw5180YzRl"><img src="https://img.shields.io/badge/Telegram-%40OneClip-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 群组" style="border-radius: 8px;" /></a>
   <a href="https://space.bilibili.com/1407028951/lists/5012369?type=series">
     <img src="https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B-6366f1?style=for-the-badge" alt="视频教程" style="border-radius: 8px;">
   </a>
