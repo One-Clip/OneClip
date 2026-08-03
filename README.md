@@ -17,12 +17,7 @@
   <img src="https://picx.zhimg.com/80/v2-34b000e56d1af7ef61092dcd031dfd9a_1440w.webp?source=2c26e567" alt="OneClip Logo" width="120" height="120">
   <h1>OneClip</h1>
   <p><strong>一个简单专业的 macOS 剪贴板管理工具</strong></p>
-  <p>
-    <span style="display:inline-block;margin:0 4px;padding:4px 12px;border-radius:999px;font-size:13px;font-weight:500;color:#fff;background:#3b82f6;">高效</span>
-    <span style="display:inline-block;margin:0 4px;padding:4px 12px;border-radius:999px;font-size:13px;font-weight:500;color:#fff;background:#8b5cf6;">现代</span>
-    <span style="display:inline-block;margin:0 4px;padding:4px 12px;border-radius:999px;font-size:13px;font-weight:500;color:#fff;background:#06b6d4;">流畅</span>
-    <span style="display:inline-block;margin:0 4px;padding:4px 12px;border-radius:999px;font-size:13px;font-weight:500;color:#fff;background:#22c55e;">安全</span>
-  </p>
+  <p><strong>高效</strong> · <strong>现代</strong> · <strong>流畅</strong> · <strong>安全</strong></p>
 </div>
 
 <p align="center">
