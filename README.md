@@ -9,7 +9,7 @@
 > [OneClip QQ交流群](https://qm.qq.com/q/xiImGHVMcM) | [TG 群组](https://t.me/+I7S6R0pw5180YzRl)  
 
 > [!TIP]
-> 🌟 OneClip早期源码已开源在 [src/](https://github.com/One-Clip/OneClip/tree/main/src) 目录，可自行下载构建。我**完整开源**了剪贴板核心机制，希望同行仅使用核心机制作为参考，UI 自行打磨。希望各位同行：开发同类产品之前先调研再 vibe coding，三思而后行。         
+> 🌟 OneClip早期源码已开源在 [src/](https://github.com/One-Clip/OneClip/tree/main/src) 目录，可自行下载构建。我**完整开源**了剪贴板核心机制，希望同行仅将其作为技术参考，UI 与产品体验自行打磨。也建议开发同类产品前先做足调研、谨慎入局，三思而后行。         
 > 
 
 
@@ -459,6 +459,7 @@ open dist/OneClip.app
 - [x] 快捷回复系统
 - [x] 拖拽容器
 - [x] AI 功能集成
+- [x] ocr支持
 - [x] Sparkle 自动更新
 - [x] 更多 AI 服务商集成
 - [x] 自定义同步方案
@@ -467,6 +468,7 @@ open dist/OneClip.app
 - [x] UI/UX 改进
 - [x] 脚本系统 
 - [x] 密码保护
+- [x] 截图功能
 
 ### 🚧 进行中
 
@@ -474,7 +476,7 @@ open dist/OneClip.app
 
 ### 📋 计划中
 
-- [ ] iOS/iPadOS/Windows客户端
+- [ ] 插件系统
 
 💡 有功能建议？欢迎在 [GitHub Discussions](https://github.com/One-Clip/OneClip/discussions) 提出！
 
