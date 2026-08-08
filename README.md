@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <img src="https://picx.zhimg.com/80/v2-34b000e56d1af7ef61092dcd031dfd9a_1440w.webp?source=2c26e567" alt="OneClip Logo" width="120" height="120">
+  <img src="https://i.imgant.com/v2/Az8R0oI.png" alt="OneClip Logo" width="120" height="120">
   <h1>OneClip</h1>
   <p><strong>一个简单专业的 macOS 剪贴板管理工具</strong></p>
   <p><strong>高效</strong> · <strong>现代</strong> · <strong>流畅</strong> · <strong>安全</strong></p>
