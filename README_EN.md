@@ -82,6 +82,7 @@ OneClip is a **professional clipboard manager** built for macOS. It uses **100% 
 ![img3.png](https://i.imgant.com/v2/Zn6arLh.png)
 ![](https://picx.zhimg.com/80/v2-835b6c949c6046e2d582bdfb5a88b171_1440w.webp)
 ![](https://pic1.zhimg.com/80/v2-e4337768f58b7790abcc319b961e7a34_1440w.webp)
+![](https://i.imgant.com/v2/owq3mFY.png)
 ![img4.png](https://pic1.zhimg.com/80/v2-77b506bc307ef998e6fba7ab30e7a700_1440w.webp)
 
 ## Download & Install
